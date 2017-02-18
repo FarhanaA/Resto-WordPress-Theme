@@ -1,8 +1,6 @@
 <?php
 
 ?>
-        </div>  <! content !>
-
 	<footer>
 		<div class="wrapper">
 			
@@ -32,9 +30,6 @@
             <?php dynamic_sidebar( 'footer' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
-</div><!-- #page -->
 
 <?php wp_footer(); ?>
 
-</body>
-</html>
